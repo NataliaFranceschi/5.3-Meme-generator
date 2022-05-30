@@ -17,8 +17,10 @@
 #meme-text{
   padding: 10px;
   position: absolute;
-  color: black;
+  color: white;
   max-width: 25%;
   text-align: center;
   top: 200px;
+  font-size: 30px;
+  text-shadow: black 5px 5px 5px;
 }
