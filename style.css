@@ -1,14 +1,14 @@
 #meme-image{
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
   position: absolute;
 }
 
 #meme-image-container {
-  height: 300px;
-  width: 300px;
+  margin: 10px;
+  height: 400px;
+  width: 400px;
   border: 1px solid black;
-  margin: 0;
   display: block;
   background-color: white;
 
@@ -18,9 +18,8 @@
   padding: 10px;
   position: absolute;
   color: white;
-  max-width: 25%;
-  text-align: center;
-  top: 200px;
+  max-width: 390px;
+  top: 250px;
   font-size: 30px;
   text-shadow: black 5px 5px 5px;
 }
