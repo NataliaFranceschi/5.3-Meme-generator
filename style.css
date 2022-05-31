@@ -1,4 +1,4 @@
-#meme-image{
+#meme-image {
   width: 400px;
   height: 400px;
   position: absolute;
@@ -14,7 +14,7 @@
 
 }
 
-#meme-text{
+#meme-text {
   padding: 10px;
   position: absolute;
   color: white;
@@ -25,13 +25,13 @@
 }
 
 #water {
-  background-color: rgb(0,0,225);
+  background-color: blue;
 }
 
 #fire {
-  background-color: rgb(225,0,0);
+  background-color: red;
 }
 
 #earth {
-  background-color: rgb(0,128,0);
+  background-color: green;
 }
