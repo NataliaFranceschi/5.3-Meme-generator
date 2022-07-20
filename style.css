@@ -5,7 +5,7 @@
 }
 
 #meme-image-container {
-  margin: 10px;
+  margin: auto;
   height: 400px;
   width: 400px;
   border: 1px solid black;
@@ -34,4 +34,14 @@
 
 #earth {
   background-color: green;
+}
+
+#inputs, #buttons, #memes {
+  text-align: center;
+  margin: 5px;
+}
+
+#meme-1,#meme-2,#meme-3,#meme-4{
+  width: 150px;
+  height: 150px;
 }
