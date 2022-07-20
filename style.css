@@ -1,13 +1,19 @@
+header {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+
 #meme-image {
-  width: 400px;
-  height: 400px;
+  width: 380px;
+  height: 380px;
   position: absolute;
 }
 
 #meme-image-container {
   margin: auto;
-  height: 400px;
-  width: 400px;
+  height: 380px;
+  width: 380px;
   border: 1px solid black;
   display: block;
   background-color: white;
@@ -18,8 +24,8 @@
   padding: 10px;
   position: absolute;
   color: white;
-  max-width: 390px;
-  top: 250px;
+  max-width: 370px;
+  top: 320px;
   font-size: 30px;
   text-shadow: black 5px 5px 5px;
 }
@@ -38,10 +44,10 @@
 
 #inputs, #buttons, #memes {
   text-align: center;
-  margin: 5px;
+  margin: 10px;
 }
 
 #meme-1,#meme-2,#meme-3,#meme-4{
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
