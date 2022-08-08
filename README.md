@@ -14,3 +14,5 @@ Projeto desenvolvido no curso da Trybe ao final do bloco 5* do Módulo 1 - Funda
  5.5.5 - (Bônus) Projeto - Carta Misteriosa<br><br>
 
 No projeto <strong>Meme Generator</strong> foi desenvolvido um quadro para geração de meme. No quadro pode ser feito o upload de uma foto, acrescentar legenda e mudar a borda(3 opções). Também tem 4 imagens pré-prontas para o usuário escolher, caso não queira fazer o upload.
+
+![memeGenerator](./meme.gif)
